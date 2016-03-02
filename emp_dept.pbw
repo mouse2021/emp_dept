@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "emp_dept.pbt";
+@end;
+DefaultTarget "emp_dept.pbt";
+DefaultRemoteTarget "emp_dept.pbt";
